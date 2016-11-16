@@ -1,1 +1,5 @@
 该项目用于对温州易邻科技有限公司调用移动公司流量红包能力接口
+JavaBridgeTemplate621目录是用PHP调用Java接口使用
+flow目录是实际的发送流量以及获取流量发送成功接口
+存放服务器时需要java版本，直接默认安装在C盘。
+tongfu.jar是一个加密工具的jar包，需要存放到C:\Program Files\Java\jre1.8.0_73\lib\ext改目录下。
